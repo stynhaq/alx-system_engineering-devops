@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Hello $(id -un)"
+echo -e "hello $(id -un)"
